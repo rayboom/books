@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T09:54:56.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4Qqrndw5OdxUnBf0BJdq" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-05T10:01:51.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Zr8vWAlO9BENeD30vzM" version="14.1.8" type="github" pages="2">
   <diagram id="9hgJzYPC9zcKJ9RrrAMs" name="资产方">
-    <mxGraphModel dx="782" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-17" value="联合建模流程——合作渠道" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="19" y="17" width="755.0000000000003" height="1132.1029411764707" as="geometry" />
+          <mxGeometry x="25" y="15" width="755.0000000000003" height="1132.1029411764707" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-18" value="需求沟通" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" parent="ArWcl9WuuMD1pLtWOAH9-17" vertex="1">
           <mxGeometry y="40" width="755.0000000000003" height="240" as="geometry" />
@@ -289,7 +289,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBUEtHGvzGpiYf_AuA1c-20" value="模型开发&lt;br&gt;提交验收" style="rounded=0;whiteSpace=wrap;html=1;" parent="wBUEtHGvzGpiYf_AuA1c-16" vertex="1">
-          <mxGeometry x="15" y="201" width="105" height="40" as="geometry" />
+          <mxGeometry x="15" y="201" width="105" height="34" as="geometry" />
         </mxCell>
         <mxCell id="wBUEtHGvzGpiYf_AuA1c-59" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wBUEtHGvzGpiYf_AuA1c-16" target="wBUEtHGvzGpiYf_AuA1c-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
