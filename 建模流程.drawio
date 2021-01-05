@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T03:29:30.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7lDUzWryH_J64HA1kUoS" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-05T03:37:05.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pYzeoqSwZmmkyoLpzJk-" version="14.1.8" type="github" pages="2">
   <diagram id="9hgJzYPC9zcKJ9RrrAMs" name="资产方">
-    <mxGraphModel dx="1452" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-17" value="联合建模流程——合作渠道" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="19" y="17" width="755.0000000000003" height="1152.5" as="geometry" />
+          <mxGeometry x="19" y="17" width="755.0000000000003" height="1136.8529411764707" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-18" value="需求沟通" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" parent="ArWcl9WuuMD1pLtWOAH9-17" vertex="1">
           <mxGeometry y="40" width="755.0000000000003" height="240" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-26" value="模型验收及部署" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=41;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-17" vertex="1">
-          <mxGeometry y="520" width="755.0000000000003" height="633" as="geometry" />
+          <mxGeometry y="520" width="755.0000000000003" height="617" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-27" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
-          <mxGeometry x="41" width="149" height="633" as="geometry" />
+          <mxGeometry x="41" width="149" height="617" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-75" value="模型迭代事宜沟通" style="whiteSpace=wrap;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-27" vertex="1">
           <mxGeometry x="82" y="555" width="102.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-28" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
-          <mxGeometry x="190" width="185" height="633" as="geometry" />
+          <mxGeometry x="190" width="185" height="617" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ArWcl9WuuMD1pLtWOAH9-28" source="ArWcl9WuuMD1pLtWOAH9-55" target="ArWcl9WuuMD1pLtWOAH9-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-29" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
-          <mxGeometry x="375" width="185" height="633" as="geometry" />
+          <mxGeometry x="375" width="185" height="617" as="geometry" />
         </mxCell>
         <mxCell id="E9-gYGg3IEnUSvX5F-zF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ArWcl9WuuMD1pLtWOAH9-29" source="ArWcl9WuuMD1pLtWOAH9-69" target="ArWcl9WuuMD1pLtWOAH9-72">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-32" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
-          <mxGeometry x="560" width="195" height="633" as="geometry" />
+          <mxGeometry x="560" width="195" height="617" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-61" value="模型部署需求开发" style="whiteSpace=wrap;html=1;rounded=0;" parent="ArWcl9WuuMD1pLtWOAH9-32" vertex="1">
           <mxGeometry x="15" y="169" width="120" height="30" as="geometry" />
