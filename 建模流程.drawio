@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T03:28:46.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6Ve6IwRCeP-TySKHZ5WB" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-05T03:29:30.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7lDUzWryH_J64HA1kUoS" version="14.1.8" type="github" pages="2">
   <diagram id="9hgJzYPC9zcKJ9RrrAMs" name="资产方">
-    <mxGraphModel dx="2057" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
           <mxGeometry x="190" width="185" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Yyvij0Wq_9OtrwVaSV_I-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="ArWcl9WuuMD1pLtWOAH9-24">
-          <mxGeometry x="12.5" y="92" width="423.5" height="59" as="geometry" />
+          <mxGeometry x="12.5" y="92" width="492.5" height="59" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-48" value="业务沟通及&lt;br&gt;数据提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-24" vertex="1">
           <mxGeometry x="25" y="100" width="105" height="40" as="geometry" />
@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="三方" id="86PxQM58uB2Q3ptGZd8X">
-    <mxGraphModel dx="1234" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wBUEtHGvzGpiYf_AuA1c-0" />
         <mxCell id="wBUEtHGvzGpiYf_AuA1c-1" parent="wBUEtHGvzGpiYf_AuA1c-0" />
