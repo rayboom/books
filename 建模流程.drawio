@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T06:12:08.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UCdViTqQWYOemFJG7MQE" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-06T06:14:47.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="d6wN1cuhOrh7K3BOTyHn" version="14.1.8" type="github" pages="2">
   <diagram id="9hgJzYPC9zcKJ9RrrAMs" name="合作渠道">
-    <mxGraphModel dx="1117" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-23" source="ArWcl9WuuMD1pLtWOAH9-44" target="ArWcl9WuuMD1pLtWOAH9-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ArWcl9WuuMD1pLtWOAH9-51" value="模型开发&lt;br&gt;模型文件交付" style="rounded=0;whiteSpace=wrap;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-23" vertex="1">
+        <mxCell id="ArWcl9WuuMD1pLtWOAH9-51" value="模型开发及&lt;br&gt;模型文件交付" style="rounded=0;whiteSpace=wrap;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-23" vertex="1">
           <mxGeometry x="15" y="170" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-23" source="ArWcl9WuuMD1pLtWOAH9-46" target="ArWcl9WuuMD1pLtWOAH9-51" edge="1">
@@ -109,8 +109,8 @@
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-28" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
           <mxGeometry x="190" width="185" height="379" as="geometry" />
         </mxCell>
-        <mxCell id="YY8DEFkTCSWvvJFTgVmC-1" value="通知业务经理提交OA" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
-          <mxGeometry x="9" y="116" width="141" height="30" as="geometry" />
+        <mxCell id="YY8DEFkTCSWvvJFTgVmC-1" value="通知业务经理提交OA" style="whiteSpace=wrap;html=1;rounded=0;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
+          <mxGeometry x="13" y="116" width="137" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VrXUd9B--ijc8_T5kiMZ-1" value="模型逻辑验收及结果同步（邮件通知-发征信管理岗、科技风险岗等）" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
           <mxGeometry x="13" y="205" width="144" height="109" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wQqKM7klkEryC-xwEKy5-3" value="部署需求沟通&lt;br&gt;（通知业务部门牵头-产品、大数据、科技参与）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArWcl9WuuMD1pLtWOAH9-28">
-          <mxGeometry x="4" y="18" width="152" height="52" as="geometry" />
+          <mxGeometry x="8" y="18" width="148" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-29" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
           <mxGeometry x="375" width="185" height="379" as="geometry" />
