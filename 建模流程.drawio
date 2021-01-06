@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T06:06:06.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="oSgxnVcNkEhT3dmP5gSq" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-06T06:12:08.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UCdViTqQWYOemFJG7MQE" version="14.1.8" type="github" pages="2">
   <diagram id="9hgJzYPC9zcKJ9RrrAMs" name="合作渠道">
-    <mxGraphModel dx="1452" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,22 +110,16 @@
           <mxGeometry x="190" width="185" height="379" as="geometry" />
         </mxCell>
         <mxCell id="YY8DEFkTCSWvvJFTgVmC-1" value="通知业务经理提交OA" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
-          <mxGeometry x="20" y="117" width="120" height="30" as="geometry" />
+          <mxGeometry x="9" y="116" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ArWcl9WuuMD1pLtWOAH9-65" value="模型逻辑验收&lt;br&gt;（邮件通知-发征信管理员、科技风险岗、）" style="whiteSpace=wrap;html=1;rounded=0;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
-          <mxGeometry x="20" y="174" width="120" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="VrXUd9B--ijc8_T5kiMZ-1" value="是否验收通过" style="rhombus;whiteSpace=wrap;html=1;align=left;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
-          <mxGeometry x="40" y="270" width="80" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="iTxdWwxeY5So2gBj8Yz0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ArWcl9WuuMD1pLtWOAH9-28" source="ArWcl9WuuMD1pLtWOAH9-65" target="VrXUd9B--ijc8_T5kiMZ-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VrXUd9B--ijc8_T5kiMZ-1" value="模型逻辑验收及结果同步（邮件通知-发征信管理岗、科技风险岗等）" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="ArWcl9WuuMD1pLtWOAH9-28" vertex="1">
+          <mxGeometry x="13" y="205" width="144" height="109" as="geometry" />
         </mxCell>
         <mxCell id="wQqKM7klkEryC-xwEKy5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ArWcl9WuuMD1pLtWOAH9-28" source="wQqKM7klkEryC-xwEKy5-3" target="YY8DEFkTCSWvvJFTgVmC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wQqKM7klkEryC-xwEKy5-3" value="部署需求沟通&lt;br&gt;（通知业务部门牵头-产品、大数据、科技）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArWcl9WuuMD1pLtWOAH9-28">
-          <mxGeometry x="14" y="18" width="131" height="52" as="geometry" />
+        <mxCell id="wQqKM7klkEryC-xwEKy5-3" value="部署需求沟通&lt;br&gt;（通知业务部门牵头-产品、大数据、科技参与）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArWcl9WuuMD1pLtWOAH9-28">
+          <mxGeometry x="4" y="18" width="152" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-29" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" vertex="1">
           <mxGeometry x="375" width="185" height="379" as="geometry" />
@@ -137,7 +131,7 @@
           <mxGeometry x="15" y="116" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-63" value="白盒测试&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="ArWcl9WuuMD1pLtWOAH9-32" vertex="1">
-          <mxGeometry x="15" y="183" width="120" height="39" as="geometry" />
+          <mxGeometry x="15" y="169" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ArWcl9WuuMD1pLtWOAH9-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ArWcl9WuuMD1pLtWOAH9-32" source="ArWcl9WuuMD1pLtWOAH9-61" target="ArWcl9WuuMD1pLtWOAH9-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,9 +143,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334" y="150" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ArWcl9WuuMD1pLtWOAH9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" source="ArWcl9WuuMD1pLtWOAH9-63" target="ArWcl9WuuMD1pLtWOAH9-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTxdWwxeY5So2gBj8Yz0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ArWcl9WuuMD1pLtWOAH9-26" source="VrXUd9B--ijc8_T5kiMZ-1" target="ArWcl9WuuMD1pLtWOAH9-67" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -170,6 +161,9 @@
           <mxGeometry x="-0.3489" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbGO9hfJ4AJTa00Cf4j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="ArWcl9WuuMD1pLtWOAH9-26" source="ArWcl9WuuMD1pLtWOAH9-63" target="VrXUd9B--ijc8_T5kiMZ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vp-XhyvQF6kYAxbwb8Vp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ArWcl9WuuMD1pLtWOAH9-17" source="ArWcl9WuuMD1pLtWOAH9-41" target="ArWcl9WuuMD1pLtWOAH9-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
